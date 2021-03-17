@@ -1,7 +1,7 @@
 Welcome to Five Star Roleplay's documentation!
 ##############################################
 
-This documentation covers rules and features of the `Five Star Roleplay`_.
+This documentation covers rules and features of the Five Star Roleplay.
 This resource uses both markdown and Sphinx in .txt documents.
 Use the side bar for navigation.
 
