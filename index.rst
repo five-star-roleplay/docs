@@ -7,7 +7,7 @@ Use the side bar for navigation.
 
 .. _Website: http://fsrp.eu/
 .. _Forums: https://forums.fsrp.eu/
-.. _Game Center; https://live.fsrp.eu/
+.. _Game-Center; https://live.fsrp.eu/
 .. _github: https://github.com/five-star-roleplay
 .. _discord.io: https://discord.io/fs-rp
 .. _discord: https://discord.gg/pmwSw33
@@ -30,7 +30,7 @@ Links
 
 * `Website`_
 * `Forums`_
-* `Game Center`_
+* `Game-Center`_
 * `github`_
 * `discord.io`_
 * `discord`_
