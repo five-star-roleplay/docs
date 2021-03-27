@@ -64,4 +64,4 @@ BOT SPECIFIC RULES
 * No macros.
 * No hacks.
 * No adding/changing/removing commands.
-* Keep commands in appropriate channels `#》👾general-commands` or as see fit.
+* Keep commands in appropriate channels ``#》👾general-commands`` or as see fit.
