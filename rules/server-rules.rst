@@ -104,7 +104,7 @@ POWERGAMING
 
 **Examples include but are not limited to:**
 
-- **Force Mutilation/Dismemberment** – You must *handshake* any action that ends in dismemberment or grotesque mutilation. This can be done through /me attempts to sever their finger slowly or through a DM to the individual (Which is preferred). The individual must respond with an objection – it is their choice whether or not they consent or RP the consequences at a later date.
+- **Force Mutilation/Dismemberment** – You must *handshake* any action that ends in dismemberment or grotesque mutilation. This can be done through ``/me`` attempts to sever their finger slowly or through a DM to the individual (Which is preferred). The individual must respond with an objection – it is their choice whether or not they consent or RP the consequences at a later date.
 - **Calling Shots** – Do not call shots on a player, if you say you shot someone in the head that is attempted murder and the consequences are extremely severe even if in self defense. It shows intent to kill.
 - Constantly speaking over players and not allowing them to speak or defend themselves.
 - Robbing Players without giving them an opportunity to speak or defend themselves.
@@ -198,7 +198,7 @@ NEW LIFE RULE
 
 **38 -** If killed from explosions or falling from great heights. Players can be revived but must not remember anything leading up to your death.
 
-**39 -** The downed player must use ``/me`` to EMS/PD to indicate they want to be revived or dead. *Example ``/me no pulse`` tells PD/EMS to not revive and ``/me weak pulse`` tells PD to revive them.*
+**39 -** The downed player must use ``/me`` to EMS/PD to indicate they want to be revived or dead. *Example* ``/me no pulse`` *tells PD/EMS to not revive and* ``/me weak pulse`` *tells PD to revive them.*
 
 - You may not roleplay no pulse based on a simple injury to void getting captured by Police or Criminals. The injury MUST be sever enough to do so.
 
