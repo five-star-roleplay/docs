@@ -1,223 +1,256 @@
-############
-Server Rules
-############
 
-.. note:: All players are required by the community and the management to read through this agreement and the rules when joining the Five Star Roleplay Server. You are responsible for checking this rules list for any updates (**Last Update:** 2019-08-20 3:31 PM GMT). Rule may be updated at any time, it is your job to keep updated with them when joining the server it is implied that you accept these terms as well as you following them. 
+##############
+Roleplay Rules
+##############
+
+.. note:: All players are required by the community and the management to read through this agreement and the rules when joining the Five Star Roleplay Server. You are responsible for checking this rules list for any updates (**Last Update:** 2021-02-27 20:10 PM GMT). Rule may be updated at any time, it is your job to keep updated with them when joining the server it is implied that you accept these terms as well as you following them. 
 	
 	**By entering any of our community servers you agree to the following set of rules along with all rules for that individual server or site. You also agree, upon entering any community server​s, to accept any punishments for breaking said rules. You agree that you are responsible for the actions committed on your account during your visit.**
 
-General Rules
-=============
-
-1) Please remain in character at all times in game. Breaking character via voice is not  tolerated. (Using voice chat or tweets for out of character information is prohibited.)
-	a) In Character means that you are acting as your character. You are taking in the in-game world in through the eyes,ears and mind of your character. You are not acting as yourself. It’s important to make this distinction. 
-	b) Out of Character refers to your responses to people as yourself rather than your character. Being out of character means that you are not role playing. Out of character communication is limited to /ooc and local chat (white text). 
-	
-2) No Meta-Gaming. (Using info that you have gained out of character for an In-Character benefit) Metagaming refers to when a player uses knowledge they’ve obtained through OOC means in the IC world to gain an advantage. Examples of Metagaming include:
-	a) Seeing another player’s discord gang tag and using that IC to know someone else’s character belongs to a gang.
-	b) Hearing a story about a role play that’s happened while in a lounge channel in discord and then making your character privy to the information gained by hearing said story. 
-	c) Asking “how many cops are on?” in /ooc before committing a crime.
-	
-3) No Power Gaming. (Powergaming covers three different parts of RP; RPing things that are impossible or unrealistic, forcing your role play onto another player, or making up RP scenarios for the benefit of your character without any of the negative consequences.) Examples include:
-	a) Using /chance or a /me to turn a losing roleplay scenario into a win. ie: “/me breaks handcuffs.” Or “/me tears through rope ties to pull a hidden weapon.”
-	b) Using /me to do actions that make no sense in the role play, such as: “/me ties the man up.” While you are on the other side of the room. 
-	c) Forcing another character to comply with all biddings and actions without a chance to resist.  /chance does not overrule this.
-	d) Giving your character supernatural powers.
-	e) Using knowledge of the rules to stop, avoid, or manipulate a RP.
-	
-4) No FailRP (Doing actions that are impossible In Real Life to gain an advantage in roleplay unfairly.) For example:
-	a) Escaping the police in a chase by flying your car off a mountain.
-	b) Riding a tuned supercar up a rocky mountain road at 200mph.
-	c) Dodging and trying to outrun bullets.
-
-5) You must value your life at all given times, an average person with things to lose will nearly always value there life over there belongings just as you would likely do in real life so to should your character when presented with the opportunity
-	a) Put yourself in the shoes of your character if that gun was in your face IRL you’d hand over your wallet without a second thought
-	b) In a shootout bleeding, you would beg for medical attention not try and do all you could to die so you can escape justice, real life has no respawn and your character does not know he/she is going to survive these wounds
-
-6) No VDM (Vehicle DeathMatch is when you attempt to use your vehicle as a weapon against another player without reason or roleplay behind it)
-	a) Ramming your car into another players vehicle without any RP interaction is VDM.
-	b) Running over pedestrians without any RP is VDM. 
-
-7) No RDM (Random DeathMatch is when you attack or kill another player without reason or roleplay behind it)﻿
-	a) Running up and punching a player in the face without any reason or initiation is RDM. 
-	b) Shooting at a group of people with a sniper without being initiated into the RP is RDM.
-
-8) If your character is executed during an RP scene your character may not be re-initiated into the scene after respawning. For example:
-	a) A gang-on-gang shootout is taking place. If your character is killed during the shootout and respawns at the hospital, your character may not rejoin that role play scenario. It is not realistic as they have been ‘killed’ in that RP.
-
-9) No Fail Driving (Driving your vehicle in areas it wouldn't survive IRL)
-	a) Driving a vehicle not suitable for the terrain is fail driving. Ex: Driving a sports car up a mountain. 
-	b) Continuing to drive after a high speed impact is fail driving. Realistically the car and your character would be injured.
-
-10) **What happens in RolePlay stays in RolePlay.(Do not bring in character arguments or love affairs into real life you are not your character and he/she is not you keep it seperate)**
-
-11) **No advertising anything unless given explicit permission from an Admin or above**
-
-12) **All forms of communication in the game shall remain in English. This includes, but is not limited to voice chat, OOC, and Twitter.**
-
-13) No internal/external mods or hacks. 
-	a) No crosshairs
-	b) No mod menus
-	c) No third-party programs that provide any sort of advantage over other players.
-
-14) **Do not abuse bugs or use game limitations to gain an advantage.**
-
-15) **No Rape RP (All ERP must be consensual from both sides if it is not then it is explicitly prohibited)**
-
-16) **No Terrorism RP (Deliberately creating a roleplay to strike terror into many such as stealing a plane and threatening to crash it into a high population area for no real reason)**
-
-17) No blatant racism (In character or out of character). This includes but is not limited to:
-	a) Hate Speech is not tolerated.
-	b) No harmful or directed stereotyping. Be respectful.
-
-18) No Homophobia (Dislike of or prejudice/hate speech against homosexual people).
-	a) No harmful or directed stereotyping. Be respectful.
-	b) Hate speech is not tolerated.
-
-19) **Microphones are a requirement**
-
-20) **You are not allowed to trade in-game items/currency for anything IRL outside of the Members Shop on the website**
-
-21) **No excessive sexual harassment (if asked to stop OOC please respect their boundaries.)**
-
-22) **Using an invalid date of birth that doesn't match the format YYYY-MM-DD or isn't a realistic DoB is strictly forbidden. **
-
-23) **No AFK Farming in drug locations for longer than 5 minutes (coffee break.)**
-
-24) All jobs received at the job center must be completed in the work vehicle provided at each job's locker room. Doing these jobs in a personal/NPC vehicle is against the rules.
-	a) The provided work vehicles are immersive and are capable of carrying the work materials. For example, another smaller car wouldn’t realistically be able to carry the logs for the lumberjack job or the rocks from the miner job. 
-	b) In order to maintain balance everyone must complete the job center jobs in the same vehicle. 
-
-25) You can not run to a private/invite-only instance in the middle of a RolePlay scenario.
-	a) This specifically is there because unlike in irl where that person could follow you into the property in FiveM it puts you in a protective bubble so whether it is with another civilian or a cop it is not allowed unless both parties agree someone can enter.
-
-26) **Whilst you are allowed to enter the military base you are NOT allowed to interact with any military equipment. (such as but not limited to Fighter Jets and Tanks.**
-
-27) All in character voice communication must be spoken in-game at all times. When using out-of-game voice communications, such as a bluetooth call using discord, you must also speak in game in at least “normal” range. It is unrealistic that people nearby wouldn’t be able to hear words spoken into a bluetooth. Examples include:
-	a) You have been pulled over by a police officer. Your window is rolled down and the police officer is stood next to your door.  You are in a bluetooth call with your buddies and would like to call them to back you up. While you speak in discord you are **required** to simultaneously speak in game. This can be done by holding down your in-game push to talk as you speak in discord. 
-	b) You are on a criminal meet, during the scenario you grow suspicious and wish to speak to your friend in bluetooth. While within normal range of the other party, you may not communicate privately within a bluetooth call. 
-	c) These rules also cover walkie-talkies, wireless(satellite) headsets and various other forms of wireless communication.
-	
-27.5) You are required to have a physical item in your ear to be allowed to use Bluetooth communications, for example: Earpieces or helmet with microphones.
-
-28) **Please keep OOC chat to a minimum, No arguing in OOC chat. if you feel someone has broken server rules please put in a /report (Players ID that you are reporting)(Why you are reporting them). If there is no admin available to take the report in real time please visit `https://forums.fsrp.eu/support/ <https://forums.fsrp.eu/support/>`_ and fill out an in-game-support ticket.**
-
-
-Green Zone Rules
-================
-
-1) No crimes are to be committed within Green Zones. Crimes that were started outside of a Green Zone may be carried out if the scene moves into a Green Zone. For example, 
-	a) You are in a police chase and go into the public garage. The police may still pursue you as the RP started outside of the Green Zone.
-
-2) No Green Zone Baiting. Green Zone baiting is starting or provoking someone within a green zone knowing that it may result in violence, theft, or any crime. For example:
-	a) You are in the green zone and someone starts verbally threatening your life. This is green zone baiting. 
-	b) You are standing within a green zone and tweeting out sensitive information about another character/sending threats via twitter. This is green zone baiting.
-
-3) **Whilst within a designated safe zone or green zone such as PD or the hospitals you are not allowed to release information about a character via twitter using the zone as a shield to avoid consequences such as but not limited to violent retaliation by the victimised party, this includes both public and private release of information but does not include a police investigation you may also not initiate on anyone via twitter in a greenzone**
-
-
-Police Rules
-============
-
-1) **Cop baiting without a role play reason is not tolerated. Ramming police cars because you’re bored is not allowed. Luring a police officer to take them hostage for a role play scene is allowed**
-
-2) Players that are part of LSPD or BCSO may not have a second character that is a member of a gang.
-	a) Noticed Role Players may apply to have a second character who can join an official gang. 
-	b) Players who RP a gang leader may not have a character in LSPD/BCSO.
-	
-3) **No stealing Emergency Service Vehicles unless you've been granted access by an Admin within RP.**
-
-4) **Police are NOT allowed to plate check or arrest or start any form of police on civilian RP within the 5 public garages. If the RP began outside the public garage this is not relevant. Police may question for information but not arrest, detain, search, cuff, taze or shoot under any circumstances if someone else does its a green zone violation call an admin**
-
-5) **Cell phones cannot be used when handcuffed, or after they have been removed in RP, or if you are incapacitated. Please see #📌death-rules for more information.**
-
-
-EMS Rules
-=========
-
-1) **Medics should not be within 200 meters of an on-going shooting, Reviving during active-combat is not allowed. No active-combat defibs either.**
-
-2) Characters that are part of LSFD may not be in a gang. This is to prevent an unfair advantage based on script limitations. 
-	a) Preventing rival gangs from using defibs by going on duty during or as a direct result of a scenario.
-
-3) **No stealing Emergency Service Vehicles unless you've been granted access by an Admin within RP.**
-
-4) **In order to take an EMS hostage there must be at least 3 ems on duty or OOC consent must be given by said EMS**
-
-
-Whitelist Rules
+COMMUNITY GUIDELINES
 ===============
 
-1) If you call/text any Whitelist business you must provide a detailed message of what you're needing. 
-	a) To EMS: I've been in a car accident.
-	b) To Car Dealer: I'm looking to buy a car. Are you open?
+**1 -** Be respectful of others in the community; personal insults or verbal attacks outside of role-play (RP) are strictly prohibited!
 
-2) **While communicating with (or as) a business via phone, you may not add or write down a players phone number. Realistically, each business would have their own phone line but due to FiveM limitations, players are forced to use their own phones and phone numbers to reply. Taking down numbers after players have texted a business number is considered meta and powergaming. *All government institutions are exempt from this rule as they are not business**
+**2 -** RP that violates the Twitch Terms of Service (ToS) and Rules of Conduct (RoC) is strictly prohibited:
+- [Twitch Terms of Service](https://www.twitch.tv/p/en/legal/terms-of-service/)
+- [Twitch Rules of Conduct](https://www.twitch.tv/p/en/legal/community-guidelines/)
 
-3) **Car dealers are not to use any cars from the dealership for personal use if found doing so there job will be removed. (This is here to stop an unfair advantage of unlimited cars someone can't afford as well as the realistic point of your putting miles on a new car and its no longer saleable as new you’d be fired at best sued and jailed for fraud at worst**
+**3 -** Any player caught harassing or bullying another player on the server, or outside of the server but in relation to their presence on the server, will be permanently removed.
 
-4) **You may NOT abuse any whitelisted position in any way, whitelisted jobs have a key to making a successful server. If a whitelisted job no longer functions properly it may cause potential issues for the server and the community.**
+**4 -** Your first action in any disagreement should always be to try to RP it out. If that doesn't work and you have a problem with another player, handle it privately, rather than having an open argument on the radio/in chat in the game, Discord or Twitch. If the player has broken a rule, file a report.
 
-Death Rules
+**5 -** Speaking poorly of others on streams, in chats, or elsewhere will not be tolerated. If you have an issue with someone, submit a report. You are representing our community when you're on our servers.
+
+**6 -** Do not message admins directly for general questions. We have a [FAQ](https://forums.fsrp.eu/forum/9-guides-faqs/) and a [Help Center](https://forums.fsrp.eu/forum/8-qna-support-section/) or for reference also [Discord](https://discord.gg/pmwSw33) channels (ie: `》⭐community-help`) where you can ask for assistance. You MAY message admins for issues you'd like kept private like giving personal info (email) or queries of a possible rule break. To keep your anonymity you may then DM an admin for help.
+
+**7 -** If an admin contacts you to discuss a ban, the ban will not be lifted (regardless of its initial duration) until you have spoken to the admin. If an admin contacts you to discuss a rule break and you do not acknowledge the message with a response, you may be banned until you do so.
+
+**8 -** You **MUST** stay in character at **all times**. This means no going out-of-character (OOC) on the radio/in-game chats, as well. Message people on Steam, Discord, or other methods if you need to, but keep it all in-character (IC) when playing on FSRP.
+
+**9 -** **DO NOT** broadcast music to the server using the internal VOIP unless agreed upon by all present parties.
+
+GTA RULES
+=========
+
+**1 -** Respect others at all times. Racism, hate speech, rape, and sexual harassment are not allowed.
+
+**2 -** NO ERP in public, keep it to your private properties.
+
+**3 -** Do not grief others. Griefing is the act of intentionally angering or irritating another player with malicious intent. Example: Consistently stalking a player to force RP.
+
+**4 -** **AGE REQUIREMENT:** FSRP uses ESRB ratings as a guide for age requirements on our servers. For GTA, you must be 18 years old.
+
+**5 -** No police baiting. Value your life/freedom and strive to not get caught in a crime. Jail and fines are not to be treated lightly.
+
+**6 -** Do not glitch any elements of the game or use exploits.
+
+**7 -** You cannot craft or grow any material inside your house, you must be out door at all times!
+
+**8 -** Vehicle repairs are not to be used from inside a car during any chase by either party, criminal or police. You must be clear of any situation before starting repairs unless standing outside the vehicle.
+
+**9 -** You must never go into an apartment to avoid consequences or advertise "loitering parties." There is zero tolerance for wasting server slots and looking to circumvent server rules.
+
+**10 -** Police Rules: These rules will be given to you when you are accepted to the police role and they are to be treated as official server rules.
+
+**11 -** **SERVER RESTARTS/CRASHES:** You may not use a server restart or crash to gain advantage:
+
+- An example of using a restart to your advantage would be robbing pacific standard straight after a restart, _doing this will lead to a 72 hour ban minimum._
+- You may not use a server restart or crash to escape an RP situation you were in before the restart/crash. You must wait for the other players to reconnect, and then continue the RP.
+
+COMMUNICATION
+=============
+
+**12 -** **MICROPHONES AND CHAT: A microphone is required to play on FSRP.**
+
+**13 -** **External communication** The moment you begin active RP, you **MUST** mute or close your external VOIP connection. This does not include our own teamspeak server of course.
+
+METAGAMING
+==========
+
+**_Metagaming_** _is the use of out-of-character (OOC) knowledge someone would have no in-character (IC) knowledge of._ **_Stream sniping_** _occurs when you have a player's stream open and use the information you see there (whether to find, harass, spy on them, or otherwise interact)._
+
+**14 -** **Stream sniping/stalking and metagaming IS NOT TOLERATED.** Do not act on information obtained through any means other than direct RP:
+
+- You must keep the information you have learned by watching streams and reading discussions separate from your character's knowledge.
+
+**15 -** **TERMINOLOGY:** You may not skirt the OOC rule by saying things like:
+
+- In GTA: that you have a bodycam (your stream), that you will go to City Hall or the FiB, as in "I will report this to the FiB/City Hall," or "I've talked to someone at City Hall and they said I can do this," etc.
+- In any games: referring to "the land of Discordia" or any other names for Discord, referring to the gods constantly, as in "the gods made him to go sleep permanently" when referring to a banned player, or "the gods can hear us," etc.
+
+This ruins immersion for everyone present and for streamers. If you need to say something to someone OOC, DM the person – don’t interrupt the RP. If someone else goes OOC, do not further compound the immersion break by going OOC yourself to tell them off or try to help them out. Just report the rule break and move on.
+
+**16 -** **RULESPLAINING –** Do not explain the rules in character. "You’re not really valuing your life right now", "I have a gun to your head, ahahahaha. This guy.". There are better ways to handle this, "I’m gonna shoot you in the head if you keep moving". Report people who break rules and people who don’t value their life – shoot them, then report them. Do not ruin your RP experience for people who break the rules – admins will sort them out.
+
+VALUE OF LIFE
+=============
+
+**17 -** You must value your life and the lives of others. For example, do not attempt to draw a weapon while being held at gunpoint or carelessly injure NPCs. You may not run at someone with a melee weapon if at gunpoint – you may only defend yourself at a realistic distance.
+
+- You must value your life and the lives of others (not at the detriment of your own).
+- If you have a gun to your head and you run away – this is a serious violation of this rule.
+- You must comply to reasonable demands if your life is under threat – by weapons or numbers.
+- There is a value of freedom – once physically attacked you have the right to defend yourself or run for safety.
+- Furthermore, value of freedom should be considered when fleeing from robberies, however there is a reasonable point where value of life trumps value of freedom. IE. _Multiple officers with guns pointed on you and positioned around a car you are trying to steal, if you drive away and don’t surrender. You are not valuing your life._
+
+POWERGAMING
 ===========
 
-1) **When doing Hitman RP you must do the following. You must notify the person that you are a hitman who has been hired to end their life. This must be done before the person has been attacked/injured and does count as a form of initiation.**
+**_Powergaming_** is the process of gaining an advantage in a RP scenario, either by using in-game mechanics or RP, to give the other players involved no opportunity to interact or defend themselves. It gives the other people involved in RP no option but to lose.
 
-2) **Executions must be realistic. Your character must realistically be able to perform the action and have the tools to match the /me that is written (ex: to slit a throat you must have a knife.)**
+**18 -** Powergaming of any form is prohibited.
 
-3) **If you get executed at an illegal location(drugs locations,etc), You can not return to said location for 1 hour after respawning.**
+**Examples include but are not limited to:**
 
-4) New Life Rule:  Upon ‘death’, your character forgets the events leading up to their death and after respawning, you can't go back to your area of death for at least 15 minutes. **Exceptions:**
-	a) In the case of an accidental death (forgetting to eat “pulling an EMILY”, motorcycle accident, falling from too high, drowning) your character is not required to forget the events leading up to their death and they may immediately return to the RP scene.
-	b) If your character is executed at an illegal location (drug location, black market, etc) your character may not return to said location for 1 hour. 
-	c) If a witness survives, or someone finds and inspects your body their character can inform your character of what they know
-	
+- **Force Mutilation/Dismemberment** – You must _handshake_ any action that ends in dismemberment or grotesque mutilation. This can be done through /me attempts to sever their finger slowly or through a DM to the individual (Which is preferred). The individual must respond with an objection – it is their choice whether or not they consent or RP the consequences at a later date.
+- **Calling Shots** – Do not call shots on a player, if you say you shot someone in the head that is attempted murder and the consequences are extremely severe even if in self defense. It shows intent to kill.
+- Constantly speaking over players and not allowing them to speak or defend themselves.
+- Robbing Players without giving them an opportunity to speak or defend themselves.
+- Putting someone in a position and not allowing them to have a way out.
+- Using a hostage to power game through game content. Heists/Robberies.
 
-Combat Rules
-============
+PVP
+===
 
-1) The driver of all forms of vehicles may never shoot from their vehicle unless completely stationary. Passengers, however, may fire at-will so long as all other RP requirements have been met(ex: initiation has happened).
-	a) GTA makes this extremely easy to do as the game was designed for casual npc slaying in IRL that is very difficult to accomplish and at best extremely inaccurate and likely to end in the driver crashing
-	
-2) **Initiation Timer - When you initiate on someone, that initiation is valid for 15 minutes ( ex: you are chasing someone lose them and see them an hour later you MUST reinitiate).**
+**19 -** RDM (Random Death Match) is never allowed. Conflict must be initiated either verbally, through texts, or ads.
 
-3) If a player is being compliant during a robbery they can not be killed unless there is dirty money, drugs or some form of an illegal transaction involved. For example:
-	a) You come to the gym and rob someone who is working out for their cash, you can’t not kill them at the end of the robbery if they’ve complied with your orders. 
-	b) You meet up with someone who is looking to purchase drugs from you. Instead, you rob them. In this scenario you may kill them.
+- **The only exception** to the rule applies to Store Robberies, Bank Robberies, and Heists. In these 3 scenarios both parties will assume gunfire will happen without verbal, text, or ad communication.
 
-4) You can not initiate crime on workers that are doing non-whitelist jobs. They must be in a work uniform with a work vehicle. For example, 
-	a) You cannot rob a tailor at the wool collection job location if they are wearing their work uniform and their work van is parked nearby. 
-	b) You can rob a person who is at the wool collection that is not using the correct vehicle.
-	c) You can initiate crime on a person who is at the butcher job who is not wearing the job uniform.
+**20 -** Gunfire that does not injure or down a player is not considered RDM. Example: Shooting at the ground in front of a Player’s feet to get their attention.
 
-5) In order to restrain someone or remove their weapons in RP they must be compliant. You can’t simply do a /me takes someone's weapon and expect it to be relevant unless they are being forced to value their life or doing it voluntarily during RP﻿. For example, 
-	a) if you’ve asked someone to submit to a pat down, or have asked them to hand over all of their weapons you can reasonably take the items if the other party complies.
+**21 -** Teleports (Enter/Exits) – cannot be camped. You must let people grab the nearest cover and have time to respond to any threat. You cannot mow someone down or kidnap someone at a load in point.
 
-6) OOC Consent from all parties involved must be obtained to participate in graphic and excessively violent RP. This includes but is not limited to:
-	a) Heavy torture role play.
-	b) Detailed /me’s involving dismemberment or disfigurement.
-	c) ERP and any RP of overtly sexual nature.
-	d) Consent may be revoked at anytime during the scene.
-	e) If consent is not granted the scene can fade-to-black -- a sort of “we’ll say it happened” time-skip.  
-
-7) Refusing consent does not grant your character immunity from combat RP. For example:
-	a) In the case you are kidnapped and are being tortured, refusal to consent to graphic RP doesn’t mean that the RP will stop and your character will be unharmed. 
-	b) If you initially granted permission to participate in graphic RP and revoke consent mid-RP the scene doesn’t stop or restart. It merely switches to a fade-to-black or a significantly scaled down scene. 
-
-
-Quality of Life Rules
+GROUP / GANG CONFLICT
 =====================
 
-1) **You are not allowed to use public garages to collect license plates or information on other player’s vehicles. Unlike real life, every player is forced to get their cars from these locations and using this to gain an in-game advantage is powergaming.**
+**22 -** You must be invited into the gang discord if your gang is over 8 members!
 
-2) Stolen cell phones can not be used to acquire information about the character in-game. This rule is in place to stop potential metagaming via discord gang tags, or information acquired out of character. You can, however, force them to either give you a single contact if you already know they have it in character or delete your own number from their phone. For example
-	a) While kidnapping someone, you cannot take their phone and then force them to give you the phones password so that you can read all their texts and get all their contacts. 
-	b) Your character is looking for information about Character A. Your character hears character X mention texting Character A. As your character now knows that Character X has Character A’s number, your character may now steal Character X’s phone to acquire Character A’s number. 
-	c) Your number has fallen into the hands of someone you don’t want to have it. If you manage to get this person’s phone you are allowed to remove your number from their phone.
-	d) Information can be shared via mutual consent. Characters may voluntarily, while not coerced or under duress, share their texts, contacts, and any other information acquired fairly within roleplay that would be stored in their phone.
+**23 -** You may have a maximum of 5 people when engaging in group conflict. _The only exemption for this rule is after someone has been captured and there is no genuine chance for their rescue. You may bring them to other players if it furthers the story and the initial conflict has subsided._
 
-3) **You can not force someone to go to an ATM and give you all their money. Whilst you could take them to an ATM in real life, you’d be unable to get all of their money as real life ATMs have a limit on the amount of cash you can withdraw in a day. This also applies to bank transfers.**
+**24 -** Do not continually hit the same group over and over again. This can be considered power gaming. Slow burn the story.
 
-4) If your character ‘leaves’ for an extended period of time (2 weeks or more), you must first notify your gang or criminal friends that you are leaving. Upon returning, your character cannot immediately use their criminal knowledge to detrimentally affect storylines without first letting their gang/criminal friends know that they are back. Informing criminal ties of your return starts a 3-day grace period to allow for the facilitation of storyline in a fair way.  During this 3-day grace period you must play your character somewhat regularly. This rule is in place to prevent someone from leaving on bad terms, staying away to avoid in-character consequences and then returning for one day for the sole purpose of throwing their criminal buddies under the bus. Examples include:
-	a) Someone has an OOC argument with a friend or gang member and leaves the server. Days or weeks pass and he comes back with the purpose of getting OOC revenge.
-	b) The RP has gotten risky for your character. You may not take a long break to avoid RP consequences and then return to disrupt the role play as a counter-play.
+**25 -** You must have a reason for group conflict – there needs to be an option for the other group to get out of the conflict. A reasonable amount of money for tax, territory etc. Ordering a group to fold or completely cease operations is power gaming if pushed.
+
+**_Admin mediation is available if needed for degrading group conflict scenarios._**
+
+HEIST RULES
+===========
+
+**_These must be followed for any robberies, as the culprit or responding officer._**
+
+**26 -** You cannot use a supercar in a heist/robbery. Alternatively, you cannot run into the water as a means of getaway either.
+
+**27 -** Police must immediately identify themselves when arriving on scene and attempt verbal communication before firing their weapon.
+
+- Criminals MUST be in the immediate area for this to apply to them.
+
+_This is in effect from the moment the Robbery/Heist is started until either_
+
+- The Criminals involved are arrested and/or
+- The Criminals involved escape.
+
+**28 -** Police will assume that suppressive shots will be fired at them without verbal communication from Criminals.
+
+**29 -** Police and Criminals **are** allowed to return fire with the intent to injure/put down once they receive suppressive fire from each other.
+
+-   Criminals and Police must be given an opportunity to take cover if loading in an entry point before firing. _Example: Police take the elevator in FIB – the criminals must not camp the load in point. They may not fire suppressive rounds until they’ve been given the chance to get cover._
+
+-   Do NOT attempt to pull out a weapon, raise your weapon, or shoot if a Player has you at gunpoint. _Example: Criminal runs out of Store, weapon in hand, into a Police Officer who has his gun pointed at him._ At this point, the Criminal is **NOT** allowed to raise his weapon and attempt to shoot because it is not valuing life.
+
+**30 -** Criminals are NOT required to use verbal communication before firing at Police.
+
+_However, they must use suppressive fire if they choose not to verbally communicate first. Suppressive fire means firing shots at Police with the intent to push them back into cover without injuring them. Give Police the opportunity to take cover, react, and fire back before shooting with the intent to down the Police Officer._
+
+Suppressive Fire Examples:
+
+- Shooting at the feet of a Police Officer
+- Shooting the car doors and hood of a Police car
+- Shooting at the side and tail of a Police helicopter.
+
+**31 -** DO NOT log out in the middle of combat, i.e. combat logging.
+
+**32 -** Do not go to the barbershop with the intent to drastically change your appearance if you are wanted by police. Examples of what is NOT allowed: Changing your face, eyebrows, hairstyle, age, etc. Examples of what IS allowed: Dyeing hair, putting on a painted mask, shaving beard off, etc.
+
+3**3 -** You cannot complete any heist with more than 4 people involved in the heist. This allows counter play to the police.
+
+**34 -** You cannot knowingly coordinate heists to start at the same time. Give at least 10 minutes between completion of heists. (This method is terribly unfair to police)
+
+**35 -** Do not park vehicles inside of a heist building with the intent of escaping through the doors – this is unrealistic. (IE. Motorcycle in a store robbery.)
+
+NEW LIFE RULE
+=============
+
+_Please read this rule carefully. It is different from other servers._
+
+**Incapacitated** – meaning that you see the timer ticking down. You are downed, essentially in a terrible condition where you are unconscious.
+
+**Dead** – This means you clicked E to respawn or the timer expired and you respawned at the hospital.
+
+**36 -** If you are incapacitated you **MUST NOT** remember key details about anyone that was involved in your incapacitation in the situations directly preceding that. There is no time requirement on this, this rule includes up to the point you were lured, captured or brought to the point of your incapacitation.
+
+- You may remember small details – make/model/color of the vehicle that drove you.
+- You can remember the why and how – what the reason was and where it was done, but not who did it. _IE. Reece Jones killed you for snitching on him and he then threw you off the dam. You remember someone threw you off the dam for snitching._ –
+- You can remember what someone was wearing, their build and gender, if applicable.
+
+**37 -** If you are dead you do not remember anything leading up to your death.
+
+**38 -** If killed from explosions or falling from great heights. Players can be revived but must not remember anything leading up to your death.
+
+**39 -** The downed player must use `/me` to EMS/PD to indicate they want to be revived or dead. _Example `/me no pulse` tells PD/EMS to not revive and `/me weak pulse` tells PD to revive them._
+
+- You may not roleplay no pulse based on a simple injury to void getting captured by Police or Criminals. The injury MUST be sever enough to do so.
+
+This applies to Police, but they are **NOT** required to RP a limp or severe trauma that causes them to go off duty _unless they choose to._ This means higher-ranked PD officers cannot force others to go off duty due to injury – _that is a violation of rule 49._
+
+**40 -** EMS/PD will not revive downed players until they indicate that is what they want.
+
+**41 -** The LSPD can charge/arrest Players for crimes committed before they respawned.
+
+- **CRIMINALS** This means you cannot respawn and claim memory loss to keep PD from charging you with crimes. Get creative: Use masks, different voices, different outfits, different vehicles, etc. if you want to conceal your identity and not have a paper trail lead back to you.
+- **CRIMINALS** You must wait 1 hour before re-engaging in the conflict that caused you to be downed/respawn.
+
+_We ask you use common sense: If you are shot multiple times, fall off of a building, or go down in an explosion then do not re-engage even if it’s been 1 hour. RP serious injuries._
+
+**Examples of what is NOT allowed:**
+
+- Respawn and then immediately drive a car to pick up your wanted friend who you just attempted to rob the bank with
+- EMS revives PD Officer who then immediately starts chasing the Criminal(s) who escaped a Robbery.
+
+**42 -** If you want to claim having an explosive please have an explosive to show this. There needs to be counter play for the other side.
+
+**43 -** Sniper rifles and/or revolvers must not be used on players and primary function should be to disable vehicles.
+
+HOSTAGE RULES
+=============
+
+**44 -** You may take hostages at the scene for robberies – but cheesing hostages (making job calls or abducting random people at central garage) for the sake of winning a heist is against the rules.
+
+- The only exceptions to this is if a hostage scenario is providing story – meaning you are RPing out a full scenario with them and it’s a part of a larger RP.
+
+- **You are strictly forbidden from using friends or fake hostages. This is a minimum 72 hour ban.** _Also it is worth noting – if you are unreasonable with hostages the police_ **WILL BREACH AND SHOOT YOU.** _They have an obligation at a certain point to save the hostages life when it feels like criminals are being unreasonable and that there life is in danger – if you try to leave with a hostage from a scene you are likely to be met with force due to this._
+
+INJURIES
+========
+
+**45 -** Do not speak If your injuries would cause you to be unconscious. Wait until EMS arrives.
+
+**46 -** Logging out while down and waiting for EMS is prohibited.
+
+**47 -** Do not call "headshots" or say what another character’s injuries are.
+
+**48 -** Use discretion with accidental death or knockouts.
+
+**49 -** Police can say they were hit in their Body Armor when downed in gunfights (regardless of where shot or how many times shot), so that they can stay on duty to keep all server content open.
+
+**50 -** You must RP out your injuries appropriately. If you have been downed (Needed resuscitation by EMS) in a situation where you were attempting to inflict harm on another – you must RP out your injuries and not re-engage in conflict for at least an hour. This is especially important in gangland style executions – you must take the consequences of your actions.
+
+CHARACTER KILL
+==============
+
+**51 -** You must not reverse a character kill (CK) where Los Santos Medical writes a death certificate. If you wish to bring back a CK'd character (One which is recorded), you must have admin approval and properly fix the paper trail so that there a no other adverse consequences to other parties. You must also not continue former conflicts from before the death – you must start fresh. 
+
+- **Medical Professionals**: You must determine in an OOC DM that someone is choosing the route of a character kill and understands that this rule exists before writing a death certificate.
+- **Law Enforcement**: You must not investigate a murder unless there is a death certificate.
+
+**_The admins have the final say in any situation, and all rules are subject to change. Additionally, admins may decide to take action over something not listed here. When the admins review a situation, more than one opinion is used._**
