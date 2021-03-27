@@ -13,8 +13,9 @@ COMMUNITY GUIDELINES
 **1 -** Be respectful of others in the community; personal insults or verbal attacks outside of role-play (RP) are strictly prohibited!
 
 **2 -** RP that violates the Twitch Terms of Service (ToS) and Rules of Conduct (RoC) is strictly prohibited:
-- [Twitch Terms of Service](https://www.twitch.tv/p/en/legal/terms-of-service/)
-- [Twitch Rules of Conduct](https://www.twitch.tv/p/en/legal/community-guidelines/)
+
+- `Twitch Terms of Service <https://www.twitch.tv/p/en/legal/terms-of-service/>`_
+- `Twitch Rules of Conduct <https://www.twitch.tv/p/en/legal/community-guidelines/>`_
 
 **3 -** Any player caught harassing or bullying another player on the server, or outside of the server but in relation to their presence on the server, will be permanently removed.
 
@@ -22,7 +23,7 @@ COMMUNITY GUIDELINES
 
 **5 -** Speaking poorly of others on streams, in chats, or elsewhere will not be tolerated. If you have an issue with someone, submit a report. You are representing our community when you're on our servers.
 
-**6 -** Do not message admins directly for general questions. We have a [FAQ](https://forums.fsrp.eu/forum/9-guides-faqs/) and a [Help Center](https://forums.fsrp.eu/forum/8-qna-support-section/) or for reference also [Discord](https://discord.gg/pmwSw33) channels (ie: `》⭐community-help`) where you can ask for assistance. You MAY message admins for issues you'd like kept private like giving personal info (email) or queries of a possible rule break. To keep your anonymity you may then DM an admin for help.
+**6 -** Do not message admins directly for general questions. We have a `FAQ <https://forums.fsrp.eu/forum/9-guides-faqs/>`_ and a `Help Center https://forums.fsrp.eu/forum/8-qna-support-section/>`_ or for reference also `Discord <https://discord.gg/pmwSw33>`_ channels (ie: ``》⭐community-help``) where you can ask for assistance. You MAY message admins for issues you'd like kept private like giving personal info (email) or queries of a possible rule break. To keep your anonymity you may then DM an admin for help.
 
 **7 -** If an admin contacts you to discuss a ban, the ban will not be lifted (regardless of its initial duration) until you have spoken to the admin. If an admin contacts you to discuss a rule break and you do not acknowledge the message with a response, you may be banned until you do so.
 
@@ -197,7 +198,7 @@ _Please read this rule carefully. It is different from other servers._
 
 **38 -** If killed from explosions or falling from great heights. Players can be revived but must not remember anything leading up to your death.
 
-**39 -** The downed player must use `/me` to EMS/PD to indicate they want to be revived or dead. _Example `/me no pulse` tells PD/EMS to not revive and `/me weak pulse` tells PD to revive them._
+**39 -** The downed player must use ``/me`` to EMS/PD to indicate they want to be revived or dead. _Example ``/me no pulse`` tells PD/EMS to not revive and ``/me weak pulse`` tells PD to revive them._
 
 - You may not roleplay no pulse based on a simple injury to void getting captured by Police or Criminals. The injury MUST be sever enough to do so.
 
