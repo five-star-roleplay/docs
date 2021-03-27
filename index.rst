@@ -17,13 +17,7 @@ Use the side bar for navigation.
    :caption: Community Guidelines:
 
    rules/discord
-   
-.. toctree::
-   :maxdepth: 2
-   :caption: FiveM Guidelines:
-
    rules/server-rules
-   rules/weapon-roleplay
 
 Links
 ==================
