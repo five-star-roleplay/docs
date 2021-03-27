@@ -56,7 +56,7 @@ GTA RULES
 
 **11 -** **SERVER RESTARTS/CRASHES:** You may not use a server restart or crash to gain advantage:
 
-- An example of using a restart to your advantage would be robbing pacific standard straight after a restart, _doing this will lead to a 72 hour ban minimum._
+- An example of using a restart to your advantage would be robbing pacific standard straight after a restart, *doing this will lead to a 72 hour ban minimum.*
 - You may not use a server restart or crash to escape an RP situation you were in before the restart/crash. You must wait for the other players to reconnect, and then continue the RP.
 
 COMMUNICATION
@@ -69,7 +69,7 @@ COMMUNICATION
 METAGAMING
 ==========
 
-**_Metagaming_** _is the use of out-of-character (OOC) knowledge someone would have no in-character (IC) knowledge of._ **_Stream sniping_** _occurs when you have a player's stream open and use the information you see there (whether to find, harass, spy on them, or otherwise interact)._
+**Metagaming** *is the use of out-of-character (OOC) knowledge someone would have no in-character (IC) knowledge of.* **Stream sniping** *occurs when you have a player's stream open and use the information you see there (whether to find, harass, spy on them, or otherwise interact).*
 
 **14 -** **Stream sniping/stalking and metagaming IS NOT TOLERATED.** Do not act on information obtained through any means other than direct RP:
 
@@ -93,18 +93,18 @@ VALUE OF LIFE
 - If you have a gun to your head and you run away – this is a serious violation of this rule.
 - You must comply to reasonable demands if your life is under threat – by weapons or numbers.
 - There is a value of freedom – once physically attacked you have the right to defend yourself or run for safety.
-- Furthermore, value of freedom should be considered when fleeing from robberies, however there is a reasonable point where value of life trumps value of freedom. IE. _Multiple officers with guns pointed on you and positioned around a car you are trying to steal, if you drive away and don’t surrender. You are not valuing your life._
+- Furthermore, value of freedom should be considered when fleeing from robberies, however there is a reasonable point where value of life trumps value of freedom. IE. *Multiple officers with guns pointed on you and positioned around a car you are trying to steal, if you drive away and don’t surrender. You are not valuing your life.*
 
 POWERGAMING
 ===========
 
-**_Powergaming_** is the process of gaining an advantage in a RP scenario, either by using in-game mechanics or RP, to give the other players involved no opportunity to interact or defend themselves. It gives the other people involved in RP no option but to lose.
+**Powergaming** is the process of gaining an advantage in a RP scenario, either by using in-game mechanics or RP, to give the other players involved no opportunity to interact or defend themselves. It gives the other people involved in RP no option but to lose.
 
 **18 -** Powergaming of any form is prohibited.
 
 **Examples include but are not limited to:**
 
-- **Force Mutilation/Dismemberment** – You must _handshake_ any action that ends in dismemberment or grotesque mutilation. This can be done through /me attempts to sever their finger slowly or through a DM to the individual (Which is preferred). The individual must respond with an objection – it is their choice whether or not they consent or RP the consequences at a later date.
+- **Force Mutilation/Dismemberment** – You must *handshake* any action that ends in dismemberment or grotesque mutilation. This can be done through /me attempts to sever their finger slowly or through a DM to the individual (Which is preferred). The individual must respond with an objection – it is their choice whether or not they consent or RP the consequences at a later date.
 - **Calling Shots** – Do not call shots on a player, if you say you shot someone in the head that is attempted murder and the consequences are extremely severe even if in self defense. It shows intent to kill.
 - Constantly speaking over players and not allowing them to speak or defend themselves.
 - Robbing Players without giving them an opportunity to speak or defend themselves.
@@ -127,18 +127,18 @@ GROUP / GANG CONFLICT
 
 **22 -** You must be invited into the gang discord if your gang is over 8 members!
 
-**23 -** You may have a maximum of 5 people when engaging in group conflict. _The only exemption for this rule is after someone has been captured and there is no genuine chance for their rescue. You may bring them to other players if it furthers the story and the initial conflict has subsided._
+**23 -** You may have a maximum of 5 people when engaging in group conflict. *The only exemption for this rule is after someone has been captured and there is no genuine chance for their rescue. You may bring them to other players if it furthers the story and the initial conflict has subsided.*
 
 **24 -** Do not continually hit the same group over and over again. This can be considered power gaming. Slow burn the story.
 
 **25 -** You must have a reason for group conflict – there needs to be an option for the other group to get out of the conflict. A reasonable amount of money for tax, territory etc. Ordering a group to fold or completely cease operations is power gaming if pushed.
 
-**_Admin mediation is available if needed for degrading group conflict scenarios._**
+**Admin mediation is available if needed for degrading group conflict scenarios.**
 
 HEIST RULES
 ===========
 
-**_These must be followed for any robberies, as the culprit or responding officer._**
+**These must be followed for any robberies, as the culprit or responding officer.**
 
 **26 -** You cannot use a supercar in a heist/robbery. Alternatively, you cannot run into the water as a means of getaway either.
 
@@ -146,7 +146,7 @@ HEIST RULES
 
 - Criminals MUST be in the immediate area for this to apply to them.
 
-_This is in effect from the moment the Robbery/Heist is started until either_
+*This is in effect from the moment the Robbery/Heist is started until either*
 
 - The Criminals involved are arrested and/or
 - The Criminals involved escape.
@@ -155,13 +155,13 @@ _This is in effect from the moment the Robbery/Heist is started until either_
 
 **29 -** Police and Criminals **are** allowed to return fire with the intent to injure/put down once they receive suppressive fire from each other.
 
--   Criminals and Police must be given an opportunity to take cover if loading in an entry point before firing. _Example: Police take the elevator in FIB – the criminals must not camp the load in point. They may not fire suppressive rounds until they’ve been given the chance to get cover._
+-   Criminals and Police must be given an opportunity to take cover if loading in an entry point before firing. *Example: Police take the elevator in FIB – the criminals must not camp the load in point. They may not fire suppressive rounds until they’ve been given the chance to get cover.*
 
--   Do NOT attempt to pull out a weapon, raise your weapon, or shoot if a Player has you at gunpoint. _Example: Criminal runs out of Store, weapon in hand, into a Police Officer who has his gun pointed at him._ At this point, the Criminal is **NOT** allowed to raise his weapon and attempt to shoot because it is not valuing life.
+-   Do NOT attempt to pull out a weapon, raise your weapon, or shoot if a Player has you at gunpoint. *Example: Criminal runs out of Store, weapon in hand, into a Police Officer who has his gun pointed at him.* At this point, the Criminal is **NOT** allowed to raise his weapon and attempt to shoot because it is not valuing life.
 
 **30 -** Criminals are NOT required to use verbal communication before firing at Police.
 
-_However, they must use suppressive fire if they choose not to verbally communicate first. Suppressive fire means firing shots at Police with the intent to push them back into cover without injuring them. Give Police the opportunity to take cover, react, and fire back before shooting with the intent to down the Police Officer._
+*However, they must use suppressive fire if they choose not to verbally communicate first. Suppressive fire means firing shots at Police with the intent to push them back into cover without injuring them. Give Police the opportunity to take cover, react, and fire back before shooting with the intent to down the Police Officer.*
 
 Suppressive Fire Examples:
 
@@ -182,7 +182,7 @@ Suppressive Fire Examples:
 NEW LIFE RULE
 =============
 
-_Please read this rule carefully. It is different from other servers._
+*Please read this rule carefully. It is different from other servers.*
 
 **Incapacitated** – meaning that you see the timer ticking down. You are downed, essentially in a terrible condition where you are unconscious.
 
@@ -191,18 +191,18 @@ _Please read this rule carefully. It is different from other servers._
 **36 -** If you are incapacitated you **MUST NOT** remember key details about anyone that was involved in your incapacitation in the situations directly preceding that. There is no time requirement on this, this rule includes up to the point you were lured, captured or brought to the point of your incapacitation.
 
 - You may remember small details – make/model/color of the vehicle that drove you.
-- You can remember the why and how – what the reason was and where it was done, but not who did it. _IE. Reece Jones killed you for snitching on him and he then threw you off the dam. You remember someone threw you off the dam for snitching._ –
+- You can remember the why and how – what the reason was and where it was done, but not who did it. *IE. Reece Jones killed you for snitching on him and he then threw you off the dam. You remember someone threw you off the dam for snitching.*
 - You can remember what someone was wearing, their build and gender, if applicable.
 
 **37 -** If you are dead you do not remember anything leading up to your death.
 
 **38 -** If killed from explosions or falling from great heights. Players can be revived but must not remember anything leading up to your death.
 
-**39 -** The downed player must use ``/me`` to EMS/PD to indicate they want to be revived or dead. _Example ``/me no pulse`` tells PD/EMS to not revive and ``/me weak pulse`` tells PD to revive them._
+**39 -** The downed player must use ``/me`` to EMS/PD to indicate they want to be revived or dead. *Example ``/me no pulse`` tells PD/EMS to not revive and ``/me weak pulse`` tells PD to revive them.*
 
 - You may not roleplay no pulse based on a simple injury to void getting captured by Police or Criminals. The injury MUST be sever enough to do so.
 
-This applies to Police, but they are **NOT** required to RP a limp or severe trauma that causes them to go off duty _unless they choose to._ This means higher-ranked PD officers cannot force others to go off duty due to injury – _that is a violation of rule 49._
+This applies to Police, but they are **NOT** required to RP a limp or severe trauma that causes them to go off duty *unless they choose to.* This means higher-ranked PD officers cannot force others to go off duty due to injury – *that is a violation of rule 49.*
 
 **40 -** EMS/PD will not revive downed players until they indicate that is what they want.
 
@@ -211,7 +211,7 @@ This applies to Police, but they are **NOT** required to RP a limp or severe tra
 - **CRIMINALS** This means you cannot respawn and claim memory loss to keep PD from charging you with crimes. Get creative: Use masks, different voices, different outfits, different vehicles, etc. if you want to conceal your identity and not have a paper trail lead back to you.
 - **CRIMINALS** You must wait 1 hour before re-engaging in the conflict that caused you to be downed/respawn.
 
-_We ask you use common sense: If you are shot multiple times, fall off of a building, or go down in an explosion then do not re-engage even if it’s been 1 hour. RP serious injuries._
+*We ask you use common sense: If you are shot multiple times, fall off of a building, or go down in an explosion then do not re-engage even if it’s been 1 hour. RP serious injuries.*
 
 **Examples of what is NOT allowed:**
 
@@ -229,7 +229,7 @@ HOSTAGE RULES
 
 - The only exceptions to this is if a hostage scenario is providing story – meaning you are RPing out a full scenario with them and it’s a part of a larger RP.
 
-- **You are strictly forbidden from using friends or fake hostages. This is a minimum 72 hour ban.** _Also it is worth noting – if you are unreasonable with hostages the police_ **WILL BREACH AND SHOOT YOU.** _They have an obligation at a certain point to save the hostages life when it feels like criminals are being unreasonable and that there life is in danger – if you try to leave with a hostage from a scene you are likely to be met with force due to this._
+- **You are strictly forbidden from using friends or fake hostages. This is a minimum 72 hour ban.** *Also it is worth noting – if you are unreasonable with hostages the police* **WILL BREACH AND SHOOT YOU.** *They have an obligation at a certain point to save the hostages life when it feels like criminals are being unreasonable and that there life is in danger – if you try to leave with a hostage from a scene you are likely to be met with force due to this.*
 
 INJURIES
 ========
@@ -254,4 +254,4 @@ CHARACTER KILL
 - **Medical Professionals**: You must determine in an OOC DM that someone is choosing the route of a character kill and understands that this rule exists before writing a death certificate.
 - **Law Enforcement**: You must not investigate a murder unless there is a death certificate.
 
-**_The admins have the final say in any situation, and all rules are subject to change. Additionally, admins may decide to take action over something not listed here. When the admins review a situation, more than one opinion is used._**
+**The admins have the final say in any situation, and all rules are subject to change. Additionally, admins may decide to take action over something not listed here. When the admins review a situation, more than one opinion is used.**
