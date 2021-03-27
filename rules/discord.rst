@@ -29,7 +29,7 @@ TEXT CHAT RULES
 * No questioning the staff.
 * No @mentioning the staff.
 * No asking to be granted roles/staff roles.
-* Use `#》⭐community-help` for help and support usage.
+* Use ``#》⭐community-help`` for help and support usage.
 * No @ everyone/@ here mentioning without permission.
 * No @mentioning spam.
 * No sexually explicit, pornographic and NSFW content.
@@ -44,7 +44,7 @@ TEXT CHAT RULES
 * Keep conversations in English.
 * Staff reserve the right to delete and or edit any post.
 * No advertisements or other server links. 
-* Bot commands only under `#》👾general-commands`.
+* Bot commands only under ``#》👾general-commands``.
 * No offtopic/use the right text channel for the topic you wish to discuss.
 
 VOICE CHAT RULES
