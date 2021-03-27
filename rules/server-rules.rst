@@ -23,7 +23,7 @@ COMMUNITY GUIDELINES
 
 **5 -** Speaking poorly of others on streams, in chats, or elsewhere will not be tolerated. If you have an issue with someone, submit a report. You are representing our community when you're on our servers.
 
-**6 -** Do not message admins directly for general questions. We have a `FAQ <https://forums.fsrp.eu/forum/9-guides-faqs/>`_ and a `Help Center https://forums.fsrp.eu/forum/8-qna-support-section/>`_ or for reference also `Discord <https://discord.gg/pmwSw33>`_ channels (ie: ``》⭐community-help``) where you can ask for assistance. You MAY message admins for issues you'd like kept private like giving personal info (email) or queries of a possible rule break. To keep your anonymity you may then DM an admin for help.
+**6 -** Do not message admins directly for general questions. We have a `FAQ <https://forums.fsrp.eu/forum/9-guides-faqs/>`_ and a `Help Center <https://forums.fsrp.eu/forum/8-qna-support-section/>`_ or for reference also `Discord <https://discord.gg/pmwSw33>`_ channels (ie: ``》⭐community-help``) where you can ask for assistance. You MAY message admins for issues you'd like kept private like giving personal info (email) or queries of a possible rule break. To keep your anonymity you may then DM an admin for help.
 
 **7 -** If an admin contacts you to discuss a ban, the ban will not be lifted (regardless of its initial duration) until you have spoken to the admin. If an admin contacts you to discuss a rule break and you do not acknowledge the message with a response, you may be banned until you do so.
 
