@@ -172,7 +172,7 @@ Suppressive Fire Examples:
 
 **32 -** Do not go to the barbershop with the intent to drastically change your appearance if you are wanted by police. Examples of what is NOT allowed: Changing your face, eyebrows, hairstyle, age, etc. Examples of what IS allowed: Dyeing hair, putting on a painted mask, shaving beard off, etc.
 
-3**3 -** You cannot complete any heist with more than 4 people involved in the heist. This allows counter play to the police.
+**33 -** You cannot complete any heist with more than 4 people involved in the heist. This allows counter play to the police.
 
 **34 -** You cannot knowingly coordinate heists to start at the same time. Give at least 10 minutes between completion of heists. (This method is terribly unfair to police)
 
