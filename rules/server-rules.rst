@@ -3,7 +3,7 @@
 Roleplay Rules
 ##############
 
-.. note:: All players are required by the community and the management to read through this agreement and the rules when joining the Five Star Roleplay Server. You are responsible for checking this rules list for any updates (**Last Update:** 2021-02-27 20:10 PM GMT). Rule may be updated at any time, it is your job to keep updated with them when joining the server it is implied that you accept these terms as well as you following them. 
+.. note:: All players are required by the community and the management to read through this agreement and the rules when joining the Five Star Roleplay Server. You are responsible for checking this rules list for any updates (**Last Update:** 2021-06-10 17:34 PM GMT). Rule may be updated at any time, it is your job to keep updated with them when joining the server it is implied that you accept these terms as well as you following them. 
 	
 	**By entering any of our community servers you agree to the following set of rules along with all rules for that individual server or site. You also agree, upon entering any community server​s, to accept any punishments for breaking said rules. You agree that you are responsible for the actions committed on your account during your visit.**
 
@@ -30,6 +30,8 @@ COMMUNITY GUIDELINES
 **8 -** You **MUST** stay in character at **all times**. This means no going out-of-character (OOC) on the radio/in-game chats, as well. Message people on Steam, Discord, or other methods if you need to, but keep it all in-character (IC) when playing on FSRP.
 
 **9 -** **DO NOT** broadcast music to the server using the internal VOIP unless agreed upon by all present parties.
+
+**10 -** You are **NOT** in any shape or form allowed to modify/alter your game to the point where you gain an advantage over other players.
 
 GTA RULES
 =========
