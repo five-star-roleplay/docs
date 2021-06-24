@@ -31,6 +31,8 @@ COMMUNITY GUIDELINES
 
 **9 -** **DO NOT** broadcast music to the server using the internal VOIP unless agreed upon by all present parties.
 
+**10 -** You are **NOT** in any shape or form allowed to modify/alter your game to the point where you gain an advantage over other players.
+
 GTA RULES
 =========
 
