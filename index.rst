@@ -1,15 +1,14 @@
-Welcome to Five Star Roleplay's documentation!
+Welcome to Manifest Roleplay's documentation!
 ##############################################
 
-This documentation covers rules and features of the Five Star Roleplay.
+This documentation covers rules and features of the Manifest Roleplay.
 This resource uses both markdown and Sphinx in .txt documents.
 Use the side bar for navigation.
 
-.. _Website: http://fsrp.eu/
-.. _Forums: https://forums.fsrp.eu/
-.. _Game-Center; https://live.fsrp.eu/
+.. _Website: http://manifestrp.eu/
+.. _Forums: https://forums.manifestrp.eu/
+.. _Game-Center: https://live.manifestrp.eu/
 .. _github: https://github.com/five-star-roleplay
-.. _discord.io: https://discord.io/fs-rp
 .. _discord: https://discord.gg/pmwSw33
 
 .. toctree::
@@ -26,5 +25,4 @@ Links
 * `Forums`_
 * `Game-Center`_
 * `github`_
-* `discord.io`_
 * `discord`_

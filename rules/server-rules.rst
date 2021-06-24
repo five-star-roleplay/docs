@@ -3,7 +3,7 @@
 Roleplay Rules
 ##############
 
-.. note:: All players are required by the community and the management to read through this agreement and the rules when joining the Five Star Roleplay Server. You are responsible for checking this rules list for any updates (**Last Update:** 2021-02-27 20:10 PM GMT). Rule may be updated at any time, it is your job to keep updated with them when joining the server it is implied that you accept these terms as well as you following them. 
+.. note:: All players are required by the community and the management to read through this agreement and the rules when joining the Manifest Roleplay Server. You are responsible for checking this rules list for any updates (**Last Update:** 2021-06-24 10:55 PM GMT). Rule may be updated at any time, it is your job to keep updated with them when joining the server it is implied that you accept these terms as well as you following them. 
 	
 	**By entering any of our community servers you agree to the following set of rules along with all rules for that individual server or site. You also agree, upon entering any community server​s, to accept any punishments for breaking said rules. You agree that you are responsible for the actions committed on your account during your visit.**
 
@@ -23,11 +23,11 @@ COMMUNITY GUIDELINES
 
 **5 -** Speaking poorly of others on streams, in chats, or elsewhere will not be tolerated. If you have an issue with someone, submit a report. You are representing our community when you're on our servers.
 
-**6 -** Do not message admins directly for general questions. We have a `FAQ <https://forums.fsrp.eu/forum/9-guides-faqs/>`_ and a `Help Center <https://forums.fsrp.eu/forum/8-qna-support-section/>`_ or for reference also `Discord <https://discord.gg/pmwSw33>`_ channels (ie: ``》⭐community-help``) where you can ask for assistance. You MAY message admins for issues you'd like kept private like giving personal info (email) or queries of a possible rule break. To keep your anonymity you may then DM an admin for help.
+**6 -** Do not message admins directly for general questions. We have a `FAQ <https://forums.manifestrp.eu/forum/9-guides-faqs/>`_ and a `Help Center <https://forums.manifestrp.eu/forum/8-qna-support-section/>`_ or for reference also `Discord <https://discord.gg/pmwSw33>`_ channels (ie: ``》⭐community-help``) where you can ask for assistance. You MAY message admins for issues you'd like kept private like giving personal info (email) or queries of a possible rule break. To keep your anonymity you may then DM an admin for help.
 
 **7 -** If an admin contacts you to discuss a ban, the ban will not be lifted (regardless of its initial duration) until you have spoken to the admin. If an admin contacts you to discuss a rule break and you do not acknowledge the message with a response, you may be banned until you do so.
 
-**8 -** You **MUST** stay in character at **all times**. This means no going out-of-character (OOC) on the radio/in-game chats, as well. Message people on Steam, Discord, or other methods if you need to, but keep it all in-character (IC) when playing on FSRP.
+**8 -** You **MUST** stay in character at **all times**. This means no going out-of-character (OOC) on the radio/in-game chats, as well. Message people on Steam, Discord, or other methods if you need to, but keep it all in-character (IC) when playing on MRP.
 
 **9 -** **DO NOT** broadcast music to the server using the internal VOIP unless agreed upon by all present parties.
 
@@ -40,7 +40,7 @@ GTA RULES
 
 **3 -** Do not grief others. Griefing is the act of intentionally angering or irritating another player with malicious intent. Example: Consistently stalking a player to force RP.
 
-**4 -** **AGE REQUIREMENT:** FSRP uses ESRB ratings as a guide for age requirements on our servers. For GTA, you must be 18 years old.
+**4 -** **AGE REQUIREMENT:** MRP uses ESRB ratings as a guide for age requirements on our servers. For GTA, you must be 18 years old.
 
 **5 -** No police baiting. Value your life/freedom and strive to not get caught in a crime. Jail and fines are not to be treated lightly.
 
@@ -62,7 +62,7 @@ GTA RULES
 COMMUNICATION
 =============
 
-**12 -** **MICROPHONES AND CHAT: A microphone is required to play on FSRP.**
+**12 -** **MICROPHONES AND CHAT: A microphone is required to play on MRP.**
 
 **13 -** **External communication** The moment you begin active RP, you **MUST** mute or close your external VOIP connection. This does not include our own teamspeak server of course.
 

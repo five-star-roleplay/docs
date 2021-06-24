@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# Five Star Roleplay Documentation build configuration file, created by
+# Manifest Roleplay Documentation build configuration file, created by
 # sphinx-quickstart on Sun Apr 23 15:37:03 2017.
 #
 # This file is execfile()d with the current directory set to its
@@ -55,8 +55,8 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 
 # General information about the project.
-project = 'Five Star Roleplay'
-copyright = '2021, Five Star Roleplay'
+project = 'Manifest Roleplay'
+copyright = '2021, Manifest Roleplay'
 author = '123B3n'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -105,7 +105,7 @@ if not on_rtd:  # only import and set the theme if we're building docs locally
 html_theme_options = {
     'collapse_navigation': False,
     'display_version': False,
-    'canonical_url': 'https://docs.fsrp.eu/',
+    'canonical_url': 'https://docs.manifestrp.eu/',
     'sticky_navigation': True
 }
 
@@ -118,7 +118,7 @@ html_static_path = ['.static']
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'fsrp'
+htmlhelp_basename = 'mrp'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -145,8 +145,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'index.tex', 'Five Star Roleplay Documentation',
-     'Five Star Roleplay', 'manual'),
+    (master_doc, 'index.tex', 'Manifest Roleplay Documentation',
+     'Manifest Roleplay', 'manual'),
 ]
 
 
@@ -155,7 +155,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'index', 'Five Star Roleplay Documentation',
+    (master_doc, 'index', 'Manifest Roleplay Documentation',
      [author], 1)
 ]
 
@@ -166,7 +166,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'index', 'Five Star Roleplay Documentation',
+    (master_doc, 'index', 'Manifest Roleplay Documentation',
      author, 'index', 'One line description of project.',
      'Miscellaneous'),
 ]

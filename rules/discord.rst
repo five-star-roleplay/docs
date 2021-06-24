@@ -2,7 +2,7 @@
 Discord Rules
 #############
 
-.. note:: All members are required by the community and the management to read through this agreement and the rules when joining our discord server. You are responsible for checking this rules list for any updates (**Last Update:** 2021-02-13 4:33 PM GMT). Rule may be updated at any time, it is your job to keep updated with them when joining the server it is implied that you accept these terms as well as you following them. 
+.. note:: All members are required by the community and the management to read through this agreement and the rules when joining our discord server. You are responsible for checking this rules list for any updates (**Last Update:** 2021-06-24 10:55 PM GMT). Rule may be updated at any time, it is your job to keep updated with them when joining the server it is implied that you accept these terms as well as you following them. 
 	
 	**By entering any of our discord server you agree to the following set of rules along with all rules for that individual server or site. You also agree, upon entering any community server​s, to accept any punishments for breaking said rules. You agree that you are responsible for the actions committed on your account during your visit.**
 
